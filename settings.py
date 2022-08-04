@@ -11,7 +11,7 @@ class WebbDriver(RequestsSessionMixin, Chrome):
     ...
 
 
-TOKEN = '5009247867:AAHRUCNK8v_yaSjzycUiTH0iUXMWRsILDs0'
+TOKEN = ''
 
 options = webdriver.ChromeOptions()
 options.add_argument("no-sandbox")
